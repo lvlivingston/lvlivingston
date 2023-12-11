@@ -1,3 +1,4 @@
+![Banner](./ezgif.com-gif-maker.gif)
 <hr>
 <h3 align="center"> Full Stack Software Developer &nbsp;&nbsp;|&nbsp;&nbsp; Cybersecurity Nerd &nbsp;&nbsp;|&nbsp;&nbsp; IAM/IDM Enthusiast &nbsp;&nbsp;|&nbsp;&nbsp; Yoga Teacher</h3>
 <hr>
