@@ -5,7 +5,7 @@
 </div>
 <hr>
 <h3 align="center"> 
-Full Stack Software Engineer </br> Cybersecurity Nerd </br> Identity Enthusiast </br> Yoga Teacher
+Full Stack Software Engineer </br> Cybersecurity / Identity Nerd </br> Efficiency Enthusiast </br> Yoga Teacher
 </h3>
 <hr>
 
@@ -16,8 +16,10 @@ Full Stack Software Engineer </br> Cybersecurity Nerd </br> Identity Enthusiast 
 #### 📬 Get in touch
 * LinkedIn: [linkedin.com/in/livingstonleah](https://www.linkedin.com/in/livingstonleah/)
 * YouTube: [youtube.com/@yogawithleah](https://www.youtube.com/@yogawithleah)
+* Portfolio: [vercel.app/leah-livingston](https://leah-livingston.vercel.app/)
 
 #### Fun facts 🎱
-* 🌱 Time is currently focused on 🐍 Python, 👨‍💻 Django, 🚀 PostgreSQL, and 🛠️ VS Code.
 * 🔒 CompTIA Security + certified and active Board Member for Infragard Tampa Bay
-* 🌎 Traveled to 45 countries and counting...
+* 🗣️ Ich spreche Deutsch, un poco de español, un po' di italiano, 還有一點台灣話. 
+* 🌎 I've lived in 4 countries, and traveled to 45 over the last 15 years.
+* 🌱 Time is currently focused in 🚀 SQL, 🐍 Python, 👨‍💻 Django, and 🛠️ JavaScript.
