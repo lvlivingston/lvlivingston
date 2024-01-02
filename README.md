@@ -5,7 +5,7 @@
 </div>
 <hr>
 <h3 align="center"> 
-Product Owner </br> Full Stack Software Engineer </br> Cybersecurity Nerd </br> IAM/IDM Enthusiast </br> Yoga Teacher
+Full Stack Software Engineer </br> Cybersecurity Nerd </br> Identity Enthusiast </br> Yoga Teacher
 </h3>
 <hr>
 
