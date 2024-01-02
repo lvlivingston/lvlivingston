@@ -4,7 +4,9 @@
 
 </div>
 <hr>
-<h3 align="center"> Full Stack Software Engineer &nbsp;&nbsp;|&nbsp;&nbsp; Cybersecurity Nerd &nbsp;&nbsp;|&nbsp;&nbsp; IAM/IDM Enthusiast &nbsp;&nbsp;|&nbsp;&nbsp; Yoga Teacher</h3>
+<h3 align="center"> 
+Product Owner </br> Full Stack Software Engineer </br> Cybersecurity Nerd </br> IAM/IDM Enthusiast </br> Yoga Teacher
+</h3>
 <hr>
 
 ![Skills](./skills.png)
