@@ -15,8 +15,7 @@ Full Stack Software Engineer </br> Cybersecurity / Identity Nerd </br> Efficienc
 
 #### 📬 Get in touch
 * LinkedIn: [linkedin.com/in/livingstonleah](https://www.linkedin.com/in/livingstonleah/)
-* YouTube: [youtube.com/@yogawithleah](https://www.youtube.com/@yogawithleah)
-* Portfolio: [vercel.app/leah-livingston](https://leah-livingston.vercel.app/)
+* Website: [lvlivingston.com](https://www.lvlivingston.com/)
 
 #### Fun facts 🎱
 * 🔒 CompTIA Security + certified and active Board Member for Infragard Tampa Bay
